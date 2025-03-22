@@ -37,5 +37,5 @@ for i in e:
     print(i, end=' ')
 print()
 
-printLine(40)
+printLine(count=40)
 

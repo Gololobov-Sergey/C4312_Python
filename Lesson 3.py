@@ -10,8 +10,8 @@ def summ(a, b):
 # a1 = 5
 # a2 = 7
 #
-# res = summ(100, 200)
-# print(res)
+res = summ(100)
+print(res)
 
 
 # a = 5
